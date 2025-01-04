@@ -1,0 +1,36 @@
+opam-version: "2.0"
+added: [
+  "doc/ppx_fields_conv" {"D"}
+  "doc/ppx_fields_conv/CHANGES.md" {"F:S1510T1735912287.28"}
+  "doc/ppx_fields_conv/LICENSE.md" {"F:S1126T1735912287.28"}
+  "doc/ppx_fields_conv/README.md" {"F:S11790T1735912287.28"}
+  "doc/ppx_fields_conv/README.md.orig" {"F:S11745T1735912287.28"}
+  "lib/ppx_fields_conv" {"D"}
+  "lib/ppx_fields_conv/META" {"F:S682T1735912287.27"}
+  "lib/ppx_fields_conv/dune-package" {"F:S1725T1735912287.27"}
+  "lib/ppx_fields_conv/opam" {"F:S820T1735912287.27"}
+  "lib/ppx_fields_conv/ppx_fields_conv.a" {"F:S285364T1735912287.27"}
+  "lib/ppx_fields_conv/ppx_fields_conv.cma" {"F:S316906T1735912287.27"}
+  "lib/ppx_fields_conv/ppx_fields_conv.cmi" {"F:S7446T1735912287.28"}
+  "lib/ppx_fields_conv/ppx_fields_conv.cmt" {"F:S725330T1735912287.28"}
+  "lib/ppx_fields_conv/ppx_fields_conv.cmti" {"F:S19636T1735912287.28"}
+  "lib/ppx_fields_conv/ppx_fields_conv.cmx" {"F:S11569T1735912287.28"}
+  "lib/ppx_fields_conv/ppx_fields_conv.cmxa" {"F:S16781T1735912287.28"}
+  "lib/ppx_fields_conv/ppx_fields_conv.cmxs" {"F:S294048T1735912287.28"}
+  "lib/ppx_fields_conv/ppx_fields_conv.ml" {"F:S36525T1735912287.28"}
+  "lib/ppx_fields_conv/ppx_fields_conv.mli" {"F:S75T1735912287.28"}
+  "lib/ppx_fields_conv/ppx_fields_conv__.cmi" {"F:S445T1735912287.28"}
+  "lib/ppx_fields_conv/ppx_fields_conv__.cmt" {"F:S3298T1735912287.28"}
+  "lib/ppx_fields_conv/ppx_fields_conv__.cmx" {"F:S168T1735912287.28"}
+  "lib/ppx_fields_conv/ppx_fields_conv__.ml" {"F:S192T1735912287.28"}
+  "lib/ppx_fields_conv/ppx_fields_conv__Selector.cmi"
+    {"F:S10681T1735912287.28"}
+  "lib/ppx_fields_conv/ppx_fields_conv__Selector.cmt"
+    {"F:S176328T1735912287.28"}
+  "lib/ppx_fields_conv/ppx_fields_conv__Selector.cmti"
+    {"F:S34225T1735912287.28"}
+  "lib/ppx_fields_conv/ppx_fields_conv__Selector.cmx"
+    {"F:S12972T1735912287.28"}
+  "lib/ppx_fields_conv/selector.ml" {"F:S10008T1735912287.28"}
+  "lib/ppx_fields_conv/selector.mli" {"F:S1533T1735912287.28"}
+]

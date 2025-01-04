@@ -1,0 +1,42 @@
+opam-version: "2.0"
+added: [
+  "doc/ppx_bin_prot" {"D"}
+  "doc/ppx_bin_prot/CHANGES.md" {"F:S948T1735912292.42"}
+  "doc/ppx_bin_prot/LICENSE.md" {"F:S1126T1735912292.42"}
+  "doc/ppx_bin_prot/README.md" {"F:S4396T1735912292.42"}
+  "lib/ppx_bin_prot" {"D"}
+  "lib/ppx_bin_prot/META" {"F:S1192T1735912292.42"}
+  "lib/ppx_bin_prot/dune-package" {"F:S2042T1735912292.42"}
+  "lib/ppx_bin_prot/opam" {"F:S889T1735912292.42"}
+  "lib/ppx_bin_prot/ppx_bin_prot.a" {"F:S314940T1735912292.42"}
+  "lib/ppx_bin_prot/ppx_bin_prot.cma" {"F:S432216T1735912292.42"}
+  "lib/ppx_bin_prot/ppx_bin_prot.cmi" {"F:S4749T1735912292.42"}
+  "lib/ppx_bin_prot/ppx_bin_prot.cmt" {"F:S1269760T1735912292.42"}
+  "lib/ppx_bin_prot/ppx_bin_prot.cmti" {"F:S16819T1735912292.42"}
+  "lib/ppx_bin_prot/ppx_bin_prot.cmx" {"F:S22437T1735912292.42"}
+  "lib/ppx_bin_prot/ppx_bin_prot.cmxa" {"F:S8691T1735912292.42"}
+  "lib/ppx_bin_prot/ppx_bin_prot.cmxs" {"F:S323000T1735912292.42"}
+  "lib/ppx_bin_prot/ppx_bin_prot.ml" {"F:S69085T1735912292.42"}
+  "lib/ppx_bin_prot/ppx_bin_prot.mli" {"F:S453T1735912292.42"}
+  "lib/ppx_bin_prot/shape-expander" {"D"}
+  "lib/ppx_bin_prot/shape-expander/bin_shape_expand.a"
+    {"F:S77708T1735912292.42"}
+  "lib/ppx_bin_prot/shape-expander/bin_shape_expand.cma"
+    {"F:S87484T1735912292.42"}
+  "lib/ppx_bin_prot/shape-expander/bin_shape_expand.cmi"
+    {"F:S4533T1735912292.42"}
+  "lib/ppx_bin_prot/shape-expander/bin_shape_expand.cmt"
+    {"F:S255835T1735912292.42"}
+  "lib/ppx_bin_prot/shape-expander/bin_shape_expand.cmti"
+    {"F:S15584T1735912292.42"}
+  "lib/ppx_bin_prot/shape-expander/bin_shape_expand.cmx"
+    {"F:S13196T1735912292.42"}
+  "lib/ppx_bin_prot/shape-expander/bin_shape_expand.cmxa"
+    {"F:S7778T1735912292.42"}
+  "lib/ppx_bin_prot/shape-expander/bin_shape_expand.cmxs"
+    {"F:S101736T1735912292.42"}
+  "lib/ppx_bin_prot/shape-expander/bin_shape_expand.ml"
+    {"F:S12895T1735912292.42"}
+  "lib/ppx_bin_prot/shape-expander/bin_shape_expand.mli"
+    {"F:S334T1735912292.42"}
+]

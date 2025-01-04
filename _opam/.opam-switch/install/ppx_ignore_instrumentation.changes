@@ -1,0 +1,31 @@
+opam-version: "2.0"
+added: [
+  "doc/ppx_ignore_instrumentation" {"D"}
+  "doc/ppx_ignore_instrumentation/LICENSE.md" {"F:S1126T1735912287.68"}
+  "doc/ppx_ignore_instrumentation/README.md" {"F:S285T1735912287.68"}
+  "lib/ppx_ignore_instrumentation" {"D"}
+  "lib/ppx_ignore_instrumentation/META" {"F:S527T1735912287.66"}
+  "lib/ppx_ignore_instrumentation/dune-package" {"F:S1216T1735912287.66"}
+  "lib/ppx_ignore_instrumentation/opam" {"F:S833T1735912287.66"}
+  "lib/ppx_ignore_instrumentation/ppx.exe" {"F:S23023984T1735912287.68"}
+  "lib/ppx_ignore_instrumentation/ppx_ignore_instrumentation.a"
+    {"F:S8664T1735912287.66"}
+  "lib/ppx_ignore_instrumentation/ppx_ignore_instrumentation.cma"
+    {"F:S9779T1735912287.66"}
+  "lib/ppx_ignore_instrumentation/ppx_ignore_instrumentation.cmi"
+    {"F:S225T1735912287.66"}
+  "lib/ppx_ignore_instrumentation/ppx_ignore_instrumentation.cmt"
+    {"F:S25313T1735912287.66"}
+  "lib/ppx_ignore_instrumentation/ppx_ignore_instrumentation.cmti"
+    {"F:S4259T1735912287.66"}
+  "lib/ppx_ignore_instrumentation/ppx_ignore_instrumentation.cmx"
+    {"F:S3946T1735912287.66"}
+  "lib/ppx_ignore_instrumentation/ppx_ignore_instrumentation.cmxa"
+    {"F:S3936T1735912287.66"}
+  "lib/ppx_ignore_instrumentation/ppx_ignore_instrumentation.cmxs"
+    {"F:S28320T1735912287.68"}
+  "lib/ppx_ignore_instrumentation/ppx_ignore_instrumentation.ml"
+    {"F:S1239T1735912287.66"}
+  "lib/ppx_ignore_instrumentation/ppx_ignore_instrumentation.mli"
+    {"F:S25T1735912287.66"}
+]

@@ -48,8 +48,8 @@ let split str =
 let print_mat mat =
   Array.iter
     (fun row ->
-       Array.iter (fun elem -> print_char (elem |> char_of_tile)) row;
-       print_newline ())
+      Array.iter (fun elem -> print_char (elem |> char_of_tile)) row;
+      print_newline ())
     mat
 ;;
 
@@ -128,7 +128,7 @@ let sum_gps mat =
   let sum = ref 0 in
   Array.iteri
     (fun i row ->
-       Array.iteri (fun j tile -> if tile = Box then sum := !sum + (100 * i) + j) row)
+      Array.iteri (fun j tile -> if tile = Box then sum := !sum + (100 * i) + j) row)
     mat;
   !sum
 ;;
