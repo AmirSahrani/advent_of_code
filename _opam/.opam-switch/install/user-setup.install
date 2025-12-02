@@ -1,8 +1,0 @@
-opam-version: "2.0"
-bin: "opam-user-setup"
-share_root: [
-  "sublime/files/ocp-index/Default.sublime-keymap"
-    {"sublime/ocp-index/Default.sublime-keymap"}
-  "sublime/files/ocp-index/sublime_ocp_index.py"
-    {"sublime/ocp-index/sublime_ocp_index.py"}
-]

@@ -1,8 +1,0 @@
-(lang dune 3.17)
-(name dot-merlin-reader)
-(version 5.3-502)
-(sections (lib .) (bin ../../bin) (doc ../../doc/dot-merlin-reader))
-(files
- (lib (META dune-package opam))
- (bin (dot-merlin-reader))
- (doc (CHANGES.md LICENSE README.md)))

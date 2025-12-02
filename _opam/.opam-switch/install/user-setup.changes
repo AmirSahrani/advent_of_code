@@ -1,8 +1,0 @@
-opam-version: "2.0"
-added: [
-  "bin/opam-user-setup" {"F:S4788216T1735121366.38"}
-  "share/sublime" {"D"}
-  "share/sublime/ocp-index" {"D"}
-  "share/sublime/ocp-index/Default.sublime-keymap" {"F:S58T1735121366.38"}
-  "share/sublime/ocp-index/sublime_ocp_index.py" {"F:S9029T1735121366.38"}
-]

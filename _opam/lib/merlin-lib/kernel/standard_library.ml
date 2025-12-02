@@ -1,1 +1,0 @@
-let path = {|/home/amirsahrani/Documents/python/ocaml/advent_of_code_2024/_opam/lib/ocaml|}

@@ -1,7 +1,0 @@
-version = "0.16.1"
-description = ""
-requires = "angstrom lwt.unix"
-archive(byte) = "angstrom_lwt_unix.cma"
-archive(native) = "angstrom_lwt_unix.cmxa"
-plugin(byte) = "angstrom_lwt_unix.cma"
-plugin(native) = "angstrom_lwt_unix.cmxs"
