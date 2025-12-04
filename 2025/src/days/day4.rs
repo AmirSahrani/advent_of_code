@@ -59,6 +59,7 @@ impl GridAnalysis for PaperGrid {
         let mut changed;
         let mut grid = self.clone();
 
+        // test
         loop {
             changed = false;
             let snapshot = grid.clone();
