@@ -14,9 +14,9 @@ fn main() {
     let time = utils::benchmark(day::solve_part2, &test_input);
     println!(", found in {:.2?} ns", time.as_nanos());
 
-    /* println!("\nReal inputs:");
+    println!("\nReal inputs:");
     let time = utils::benchmark(day::solve_part1, &input);
     println!(", found in {:.2?} ns", time.as_nanos());
     let time = utils::benchmark(day::solve_part2, &input);
-    println!(", found in {:.2?} ns", time.as_nanos()); */
+    println!(", found in {:.2?} ns", time.as_nanos());
 }

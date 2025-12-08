@@ -1,3 +1,5 @@
+// This file is for me to come back to in order to see how I can improve my quite messy solution to
+// day 8
 use regex::Regex;
 use std::collections::HashSet;
 
@@ -191,3 +193,4 @@ pub fn solve_part2(input: &str) {
         );
     }
 }
+
