@@ -1,11 +1,11 @@
 mod days;
 mod utils;
 
-use days::day8 as day;
+use days::day10 as day;
 
 fn main() {
-    let input_file = "inputs/input-8.txt";
-    let test_input_file = "inputs/test_input-8.txt";
+    let input_file = "inputs/input-10.txt";
+    let test_input_file = "inputs/test_input-10.txt";
     let input = utils::read_file(input_file);
     let test_input = utils::read_file(test_input_file);
     println!("Test inputs:");
